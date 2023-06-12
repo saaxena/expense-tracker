@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    margin-bottom: 30px;
+  }
+  
+  .form-row {
+    align-items: flex-end;
+  }
+  
+  #expense-list {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
